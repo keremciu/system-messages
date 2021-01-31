@@ -1,0 +1,7 @@
+.a-message {
+  background: #000;
+  border-radius: 6px;
+}
+.a-message__head {
+  border: 1px solid #fff;
+}
